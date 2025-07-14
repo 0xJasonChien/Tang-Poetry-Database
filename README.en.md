@@ -51,7 +51,7 @@ The project also involves students from the Department of Applied English, who p
    - Automatically performs Chinese word segmentation to reduce workload for data entry personnel.
    - Supports batch import and verification.
 
-## Website screenshot
+## Screenshot
 ![screencapture-tang-nkust-org-2024-12-11-07_24_01](https://github.com/user-attachments/assets/95abca4b-1fb7-4758-b7aa-ef8289d2dca3)
 ![image](https://github.com/user-attachments/assets/c7a3567d-7de0-4459-93b9-57ce8a19ce60)
 ![image (1)](https://github.com/user-attachments/assets/d2ea9ff9-fd04-4968-ae0b-80a912ebbfe5)
