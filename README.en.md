@@ -26,7 +26,7 @@ The project also involves students from the Department of Applied English, who p
   - **jQuery** for AJAX data fetching and DOM manipulation, based on data provided by the backend.
   - Interactive charts for frequency data and statistical summaries are rendered on the frontend using **Chart.js**, based on data provided by the backend.
 - **Database**：MySQL
-- **Server Deployment**：Hosted on a university server with Apache, I handled the full deployment including configuration, testing, and optimization.
+- **Server Deployment**：Hosted on a university Linux server with Apache, I handled the full deployment including configuration, testing, and optimization.
 
 
 
